@@ -6,3 +6,6 @@ This repository contains a set of n8n workflows for automating various business 
 
 ### 🔸 Summarize-Tally-Form/
 Captures form submissions from tally and summarize it.
+
+### 🔸 Invoice Reminder/
+Sends automated email reminders to clients with upcoming or overdue invoices.
