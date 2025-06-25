@@ -10,7 +10,7 @@ Captures form submissions from tally and summarize it.
 ### 🔸 Invoice Reminder/
 Sends automated email reminders to clients with upcoming or overdue invoices.
 
-### 🔸 email-labeler/ 
+### 🔸 Email Labeler/ 
 Automatically labels incoming emails based on rules like sender, subject, or keywords.
 
 ### 🔸 Lead Qualification/ 
