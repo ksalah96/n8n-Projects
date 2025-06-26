@@ -16,4 +16,6 @@ Automatically labels incoming emails based on rules like sender, subject, or key
 ### 🔸 Lead Qualification/ 
 Automatically qualify rental inquiries from emails and update CRM or notify team based on client eligibility.
 
+### 🔸 Support Ticket AI/ 
+Automatically extract and log support ticket details into Notion using AI for streamlined triage and assignment.
 
