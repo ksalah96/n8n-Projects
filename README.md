@@ -19,3 +19,7 @@ Automatically qualify rental inquiries from emails and update CRM or notify team
 ### 🔸 Support Ticket AI/ 
 Automatically extract and log support ticket details into Notion using AI for streamlined triage and assignment.
 
+### 🔸 AI Content Distributor/ 
+Automated Blog Content Republisher with AI Summarization to Social Channels (LinkedIn, Twitter/X, Slack).
+
+
