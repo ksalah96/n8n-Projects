@@ -22,4 +22,7 @@ Automatically extract and log support ticket details into Notion using AI for st
 ### 🔸 AI Content Distributor/ 
 Automated Blog Content Republisher with AI Summarization to Social Channels (LinkedIn, Twitter/X, Slack).
 
+### 🔸 AI Tracker Habit/ 
+Automatically collect daily habit updates via Telegram, log them to Notion, and reply with motivational AI feedback.
+
 
