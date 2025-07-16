@@ -28,4 +28,7 @@ Automatically collect daily habit updates via Telegram, log them to Notion, and 
 ### 🔸 REM Domestic Skip Request/ 
 Workflow to qualify leads, store them in Google Sheets, and notify the team for high-value opportunitie.
 
+### 🔸 PharmaLead Scraper/ 
+Automatically scrapes pharmaceutical company data in Riyadh using Apify and logs it into Google Sheets via n8n.
+
 
