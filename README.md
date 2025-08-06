@@ -31,4 +31,7 @@ Workflow to qualify leads, store them in Google Sheets, and notify the team for 
 ### 🔸 PharmaLead Scraper/ 
 Automatically scrapes pharmaceutical company data in Riyadh using Apify and logs it into Google Sheets via n8n.
 
+### 🔸 AI Marketing Team/  
+Automatically delegates marketing tasks to specialist AI agents (content, ads, social) and logs results into Google Sheets using n8n.
+
 
