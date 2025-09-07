@@ -34,4 +34,6 @@ Automatically scrapes pharmaceutical company data in Riyadh using Apify and logs
 ### 🔸 AI Marketing Team/  
 Automatically delegates marketing tasks to specialist AI agents (content, ads, social) and logs results into Google Sheets using n8n.
 
+### 🔸 Website Tech Scraper/  
+Automatically scrapes company domains, extracts their used technologies with AI, and logs structured results into Google Sheets using n8n.
 
