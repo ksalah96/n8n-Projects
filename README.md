@@ -37,3 +37,5 @@ Automatically delegates marketing tasks to specialist AI agents (content, ads, s
 ### 🔸 Website Tech Scraper/  
 Automatically scrapes company domains, extracts their used technologies with AI, and logs structured results into Google Sheets using n8n.
 
+### 🔸 Apollo Lead Gen Automation/  
+Automates lead generation from Apollo using Apify, verifies emails, stores leads in Google Sheets, and sends them to a cold email campaign.
